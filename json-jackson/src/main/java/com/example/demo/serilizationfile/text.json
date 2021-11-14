@@ -1,0 +1,45 @@
+[{
+	"name":"Nikhil Ninawe",
+	"mobile": 8180932718,
+	"date":"2021-11-13",
+	"city":"Lahore",
+	"course":["C++","Java","Ruby"],
+	"address":{
+		"area":"Multan pur",
+		"pin":656565,
+		"latitude":50.2655,
+		"longitude":61.3658
+	},
+	"married":true,
+	"death":null
+},
+{
+	"name":"Ansh Ninawe",
+	"mobile": 898787,
+	"date":"2021-11-10",
+	"city":"Multan",
+	"course":["C++","Java","Ruby"],
+	"address":{
+		"area":"Zingabai pur",
+		"pin":956,
+		"latitude":50.9895,
+		"longitude":89.3333
+	},
+	"married":false,
+	"death":"alive"
+},
+{
+	"name":"Rohini Ninawe",
+	"mobile": 986565,
+	"date":"2021-11-88",
+	"city":"Nagpur",
+	"course":["C++","Java","Ruby"],
+	"address":{
+		"area":"Kasba pur",
+		"pin":645,
+		"latitude":99.222,
+		"longitude":61.3658
+	},
+	"married":true,
+	"death":"alive"
+}]
